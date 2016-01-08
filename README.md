@@ -1,7 +1,7 @@
 Product: Tea Bag House, January 2016
 http://obrary.com/products/tea-bag-house
 
-Designer: ??? ???????, cto-peresvet16@mail.ru
+Designer: юля ранцева <cto-peresvet16@mail.ru>
 
 Support:  support@obrary.com
 
